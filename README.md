@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [emad-2002.github.io](emad-2002.github.io)
 
-- 📫 How to reach me **emadwaseem1@gmail.com**
+- 📫 Reach me on **emadwaseem1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
