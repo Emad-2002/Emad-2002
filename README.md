@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/programmer_2002" target="blank"><img src="https://img.shields.io/twitter/follow/programmer_2002?logo=twitter&style=for-the-badge" alt="programmer_2002" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](emad-2002.github.io)
+- 🔭 I’m currently working on [Portfolio Website]([emad-2002.github.io](https://emad-2002.github.io/))
 
 - 🌱 I’m currently learning **Back-End Development.**
 
-- 👨‍💻 All of my projects are available at [emad-2002.github.io](emad-2002.github.io)
+- 👨‍💻 All of my projects are available at [emad-2002.github.io]([emad-2002.github.io](https://emad-2002.github.io/))
 
 - 📫 Reach me on **emadwaseem1@gmail.com**
 
