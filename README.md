@@ -1,7 +1,7 @@
+<p align="center"><img width="350px" height="250px" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
 <h1 align="center">Hi 👋, I'm Emad Waseem</h1>
 <h3 align="center">A passionate Front-End Developer from Pakistan, based in Malaysia.</h3>
 <br>
-<img align="right" width="400px" height="300px" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <a href="https://twitter.com/programmer_2002" target="blank"><img src="https://img.shields.io/twitter/follow/programmer_2002?logo=twitter&style=for-the-badge" alt="programmer_2002" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio Website](https://emad-2002.github.io/)
