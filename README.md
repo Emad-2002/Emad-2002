@@ -1,6 +1,6 @@
 <p align="center"><img width="350px" height="250px" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
 <h1 align="center">Hi 👋, I'm Emad Waseem</h1>
-<h3 align="center">A passionate Front-End Developer from Pakistan, based in Malaysia.</h3>
+<h3 align="center">A passionate Front-End Developer, based in Malaysia.</h3>
 <br>
 
 - 💻 [My Portfolio Website](https://emad-2002.github.io/)
