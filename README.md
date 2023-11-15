@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Front-End Developer from Pakistan, based in Malaysia.</h3>
 <br>
 
-- 🔭 I’m currently working on [My Portfolio Website](https://emad-2002.github.io/)
+- 🔭 [My Portfolio Website](https://emad-2002.github.io/)
 
-- 🌱 I’m currently learning **Back-End Development.**
+- 🌱 I’m currently learning **Back-End Web Development.** and **Mobile App Development**
 
 - 👨‍💻 All of my projects are available at [emad-2002.github.io](https://emad-2002.github.io/)
 
