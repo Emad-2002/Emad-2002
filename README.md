@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Front-End Developer from Pakistan, based in Malaysia.</h3>
 <br>
 
-- 🔭 [My Portfolio Website](https://emad-2002.github.io/)
+- 💻 [My Portfolio Website](https://emad-2002.github.io/)
 
 - 🌱 I’m currently learning **Back-End Web Development.** and **Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [emad-2002.github.io](https://emad-2002.github.io/)
+- 👨‍💻 Most of my personal projects are available at [emad-2002.github.io](https://emad-2002.github.io/)
 
 - 📫 Reach me on **emadwaseem1@gmail.com**
 
